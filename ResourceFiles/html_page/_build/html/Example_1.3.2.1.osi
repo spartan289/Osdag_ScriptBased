@@ -1,0 +1,51 @@
+Anchor Bolt.ICF.Diameter:
+- M20
+- M24
+Anchor Bolt.ICF.Grade:
+- '8.8'
+- '9.8'
+Anchor Bolt.OCF.Diameter:
+- M24
+- M30
+Anchor Bolt.OCF.Grade:
+- '12.9'
+Anchor Bolt.Type: End Plate Type
+Base_Plate.Material: E 250 (Fe 410 W)A
+Connectivity: Moment Base Plate
+Design.Design_Method: Limit State Design
+DesignPreferences.Anchor_Bolt.Friction_coefficient: '0.3'
+DesignPreferences.Anchor_Bolt.ICF.Bolt_Hole_Type: Over-sized
+DesignPreferences.Anchor_Bolt.ICF.Designation: M20X409.5 IS5624 GALV
+DesignPreferences.Anchor_Bolt.ICF.Galvanized: 'Yes'
+DesignPreferences.Anchor_Bolt.ICF.Length: '409.5'
+DesignPreferences.Anchor_Bolt.ICF.Material_Grade_OverWrite: '830.0'
+DesignPreferences.Anchor_Bolt.ICF.Type: End Plate Type
+DesignPreferences.Anchor_Bolt.OCF.Bolt_Hole_Type: Over-sized
+DesignPreferences.Anchor_Bolt.OCF.Designation: M24X559.7 IS5624 GALV
+DesignPreferences.Anchor_Bolt.OCF.Galvanized: 'Yes'
+DesignPreferences.Anchor_Bolt.OCF.Length: '559.7'
+DesignPreferences.Anchor_Bolt.OCF.Material_Grade_OverWrite: '1220.0'
+DesignPreferences.Anchor_Bolt.OCF.Type: End Plate Type
+DesignPreferences.Design.Base_Plate: Effective Area Method
+Detailing.Corrosive_Influences: 'Yes'
+Detailing.Edge_type: b - Rolled, machine-flame cut, sawn and planed
+End Condition: Fixed
+Footing.Grade: M30
+Label_21: '165.0'
+Label_8: Rolled
+Load.Axial_Compression: '900'
+Load.Axial_Tension: '27'
+Load.Moment.Major: '123'
+Load.Moment.Minor: ''
+Load.Shear.Major: '85'
+Load.Shear.Minor: '12'
+Material: E 350 (Fe 490)
+Member.Designation: PBP 400 X 140.2
+Member.Fu: '490'
+Member.Fy: '350'
+Member.Material: E 350 (Fe 490)
+Module: Base Plate Connection
+Stiffener_Key.Material: E 250 (Fe 410 W)A
+Weld.Fab: Shop Weld
+Weld.Material_Grade_OverWrite: '510'
+Weld.Type: Groove Weld

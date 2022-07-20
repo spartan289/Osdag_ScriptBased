@@ -1,0 +1,25 @@
+Bolt.Bolt_Hole_Type: Standard
+Bolt.Diameter:
+- '30'
+Bolt.Grade:
+- '9.8'
+Bolt.Slip_Factor: '0.3'
+Bolt.TensionType: Non pre-tensioned
+Bolt.Type: Bearing Bolt
+Connectivity: Flush End Plate
+Connector.Material: E 300 (Fe 440)
+Connector.Plate.Thickness_List:
+- '32'
+Design.Design_Method: Limit State Design
+Detailing.Corrosive_Influences: 'No'
+Detailing.Edge_type: Rolled, machine-flame cut, sawn and planed
+Detailing.Gap: '0'
+Load.Axial: '250'
+Load.Moment: '50'
+Load.Shear: '20'
+Material: E 300 (Fe 440)
+Member.Designation: PBP 300 X 95
+Member.Material: E 300 (Fe 440)
+Module: Column-to-Column End Plate Connection
+Weld.Fab: Shop Weld
+Weld.Material_Grade_OverWrite: '440'

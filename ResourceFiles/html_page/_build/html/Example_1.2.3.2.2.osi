@@ -1,0 +1,18 @@
+Connector.Flange_Plate.Preferences: Outside
+Connector.Flange_Plate.Thickness_list:
+- '18'
+Connector.Material: E 250 (Fe 410 W)A
+Connector.Web_Plate.Thickness_List:
+- '14'
+Design.Design_Method: Limit State Design
+Detailing.Gap: '5'
+Load.Axial: '480'
+Load.Moment: '50'
+Load.Shear: '30'
+Material: E 250 (Fe 410 W)A
+Member.Designation: HB 400
+Member.Material: E 250 (Fe 410 W)A
+Module: Column-to-Column Cover Plate Welded Connection
+Weld.Fab: Field weld
+Weld.Material_Grade_OverWrite: '510'
+Weld.Type: Fillet Weld

@@ -1,0 +1,39 @@
+Connector.Flange_Plate.Preferences: Outside + Inside
+Connector.Flange_Plate.Thickness_list: &id001
+- '8'
+- '10'
+- '12'
+- '14'
+- '16'
+- '18'
+- '20'
+- '22'
+- '25'
+- '28'
+- '32'
+- '36'
+- '40'
+- '45'
+- '50'
+- '56'
+- '63'
+- '75'
+- '80'
+- '90'
+- '100'
+- '110'
+- '120'
+Connector.Material: E 250 (Fe 410 W)A
+Connector.Web_Plate.Thickness_List: *id001
+Design.Design_Method: Limit State Design
+Detailing.Gap: '5'
+Load.Axial: '20'
+Load.Moment: '235'
+Load.Shear: '150'
+Material: E 300 (Fe 440)
+Member.Designation: UB 686 x 254 x 140
+Member.Material: E 300 (Fe 440)
+Module: Beam-to-Beam Cover Plate Welded Connection
+Weld.Fab: Field weld
+Weld.Material_Grade_OverWrite: '550'
+Weld.Type: Fillet Weld

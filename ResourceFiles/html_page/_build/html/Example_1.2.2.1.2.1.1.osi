@@ -1,0 +1,37 @@
+Bolt.Bolt_Hole_Type: Standard
+Bolt.Diameter:
+- '16'
+- '20'
+- '24'
+- '30'
+Bolt.Grade:
+- '8.8'
+- '9.8'
+- '10.9'
+Bolt.Slip_Factor: '0.3'
+Bolt.TensionType: Pre-tensioned
+Bolt.Type: Friction Grip Bolt
+Connectivity: Column Web-Beam Web
+Connector.Material: E 300 (Fe 440)
+Connector.Plate.Thickness_List:
+- '14'
+- '16'
+- '18'
+- '20'
+Design.Design_Method: Limit State Design
+Detailing.Corrosive_Influences: 'No'
+Detailing.Edge_type: Rolled, machine-flame cut, sawn and planed
+Detailing.Gap: '0'
+EndPlateType: Flushed - Reversible Moment
+Load.Axial: ''
+Load.Moment: '75'
+Load.Shear: '50'
+Material: E 250 (Fe 410 W)A
+Member.Supported_Section.Designation: WB 300
+Member.Supported_Section.Material: E 250 (Fe 410 W)A
+Member.Supporting_Section.Designation: HB 450
+Member.Supporting_Section.Material: E 250 (Fe 410 W)A
+Module: Beam-to-Column End Plate Connection
+Weld.Fab: Shop Weld
+Weld.Material_Grade_OverWrite: '490'
+Weld.Type: Groove Weld

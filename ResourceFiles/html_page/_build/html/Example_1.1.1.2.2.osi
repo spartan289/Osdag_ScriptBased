@@ -1,0 +1,26 @@
+Bolt.Bolt_Hole_Type: Standard
+Bolt.Diameter:
+- '16'
+Bolt.Grade:
+- '4.6'
+Bolt.Slip_Factor: '0.3'
+Bolt.TensionType: Non pre-tensioned
+Bolt.Type: Bearing Bolt
+Connectivity: Column Web-Beam Web
+Connector.Material: E 250 (Fe 410 W)A
+Connector.Plate.Thickness_List:
+- '16'
+Design.Design_Method: Limit State Design
+Detailing.Corrosive_Influences: 'No'
+Detailing.Edge_type: Rolled, machine-flame cut, sawn and planed
+Detailing.Gap: '10'
+Load.Axial: ''
+Load.Shear: '140'
+Material: E 250 (Fe 410 W)A
+Member.Supported_Section.Designation: WPB 300 X 300 X 100.85
+Member.Supported_Section.Material: E 250 (Fe 410 W)A
+Member.Supporting_Section.Designation: UC 356 x 368 x 129
+Member.Supporting_Section.Material: E 250 (Fe 410 W)A
+Module: Fin Plate Connection
+Weld.Fab: Shop Weld
+Weld.Material_Grade_OverWrite: '410'

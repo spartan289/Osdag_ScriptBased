@@ -1,0 +1,31 @@
+Bolt.Bolt_Hole_Type: Standard
+Bolt.Diameter:
+- '24'
+Bolt.Grade:
+- '8.8'
+Bolt.Slip_Factor: '0.3'
+Bolt.TensionType: Pre-tensioned
+Bolt.Type: Friction Grip Bolt
+Connectivity: Column Web-Beam Web
+Connector.Material: E 250 (Fe 410 W)A
+Connector.Plate.Thickness_List:
+- '16'
+- '18'
+- '20'
+Design.Design_Method: Limit State Design
+Detailing.Corrosive_Influences: 'No'
+Detailing.Edge_type: Rolled, machine-flame cut, sawn and planed
+Detailing.Gap: '0'
+EndPlateType: Extended Both Ways - Reversible Moment
+Load.Axial: ''
+Load.Moment: '65'
+Load.Shear: '150'
+Material: E 350 (Fe 490)
+Member.Supported_Section.Designation: UB 305 x 165 x 40
+Member.Supported_Section.Material: E 300 (Fe 440)
+Member.Supporting_Section.Designation: UC 356 x 406 x 235
+Member.Supporting_Section.Material: E 350 (Fe 490)
+Module: Beam-to-Column End Plate Connection
+Weld.Fab: Shop Weld
+Weld.Material_Grade_OverWrite: '450'
+Weld.Type: Groove Weld

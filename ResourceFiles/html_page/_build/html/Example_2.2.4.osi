@@ -1,0 +1,15 @@
+Conn_Location: Web
+Connector.Material: E 250 (Fe 410 W)A
+Connector.Plate.Thickness_List:
+- '14'
+Design.Design_Method: Limit State Design
+Load.Axial: '240'
+Material: E 250 (Fe 410 W)A
+Member.Designation:
+- MC 250
+Member.Length: '3200'
+Member.Material: E 250 (Fe 410 W)A
+Member.Profile: Channels
+Module: Tension Member Design - Welded to End Gusset
+Weld.Fab: Field weld
+Weld.Material_Grade_OverWrite: '410'

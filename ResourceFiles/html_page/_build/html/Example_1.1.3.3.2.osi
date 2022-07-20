@@ -1,0 +1,23 @@
+Bolt.Bolt_Hole_Type: Over-sized
+Bolt.Diameter:
+- '16'
+Bolt.Grade:
+- '5.8'
+Bolt.Slip_Factor: '0.3'
+Bolt.TensionType: Non pre-tensioned
+Bolt.Type: Bearing Bolt
+Connectivity: Beam-Beam
+Connector.Angle_List:
+- 130 x130 x 10
+Connector.Material: E 250 (Fe 410 W)A
+Design.Design_Method: Limit State Design
+Detailing.Corrosive_Influences: 'No'
+Detailing.Edge_type: Sheared or hand flame cut
+Detailing.Gap: '10'
+Load.Shear: '100'
+Material: E 250 (Fe 410 W)A
+Member.Supported_Section.Designation: MB 300
+Member.Supported_Section.Material: E 250 (Fe 410 W)A
+Member.Supporting_Section.Designation: UB 305 x 102 x 33
+Member.Supporting_Section.Material: E 250 (Fe 410 W)A
+Module: Cleat Angle Connection

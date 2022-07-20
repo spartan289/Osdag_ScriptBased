@@ -1,0 +1,24 @@
+Bolt.Bolt_Hole_Type: Standard
+Bolt.Diameter:
+- '20'
+Bolt.Grade:
+- '8.8'
+Bolt.Slip_Factor: '0.3'
+Bolt.TensionType: Pre-tensioned
+Bolt.Type: Friction Grip Bolt
+Conn_Location: Web
+Connector.Material: E 250 (Fe 410 W)A
+Connector.Plate.Thickness_List:
+- '14'
+Design.Design_Method: Limit State Design
+Detailing.Corrosive_Influences: 'No'
+Detailing.Edge_type: Rolled, machine-flame cut, sawn and planed
+Detailing.Gap: '0'
+Load.Axial: '240'
+Material: E 250 (Fe 410 W)A
+Member.Designation:
+- MC 250
+Member.Length: '3200'
+Member.Material: E 250 (Fe 410 W)A
+Member.Profile: Channels
+Module: Tension Member Design - Bolted to End Gusset

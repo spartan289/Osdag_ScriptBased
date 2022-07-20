@@ -1,0 +1,28 @@
+Bolt.Bolt_Hole_Type: Standard
+Bolt.Diameter:
+- '16'
+- '20'
+Bolt.Grade:
+- '4.6'
+- '4.8'
+Bolt.Slip_Factor: '0.3'
+Bolt.TensionType: Pre-tensioned
+Bolt.Type: Bearing Bolt
+Connectivity: Column Flange-Beam Web
+Connector.Angle_List:
+- 90 x 90 x 10
+- 90 x 90 x 12
+- 100 x 100 x 6
+- 100 x 100 x 8
+Connector.Material: E 250 (Fe 410 W)A
+Design.Design_Method: Limit State Design
+Detailing.Corrosive_Influences: 'No'
+Detailing.Edge_type: Rolled, machine-flame cut, sawn and planed
+Detailing.Gap: '10'
+Load.Shear: '130'
+Material: E 250 (Fe 410 W)A
+Member.Supported_Section.Designation: MB 300
+Member.Supported_Section.Material: E 250 (Fe 410 W)A
+Member.Supporting_Section.Designation: HB 250
+Member.Supporting_Section.Material: E 250 (Fe 410 W)A
+Module: Cleat Angle Connection

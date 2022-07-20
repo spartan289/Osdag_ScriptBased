@@ -1,0 +1,27 @@
+Bolt.Bolt_Hole_Type: Standard
+Bolt.Diameter:
+- '16'
+Bolt.Grade:
+- '12.9'
+Bolt.Slip_Factor: '0.48'
+Bolt.TensionType: Pre-tensioned
+Bolt.Type: Friction Grip Bolt
+Connectivity: Coplanar Tension-Compression Flange
+Connector.Material: E 250 (Fe 410 W)A
+Connector.Plate.Thickness_List:
+- '14'
+Design.Design_Method: Limit State Design
+Detailing.Corrosive_Influences: 'No'
+Detailing.Edge_type: Rolled, machine-flame cut, sawn and planed
+Detailing.Gap: '0'
+EndPlateType: Extended Both Ways - Reversible Moment
+Load.Axial: '12'
+Load.Moment: '85'
+Load.Shear: '40'
+Material: E 300 (Fe 440)
+Member.Supported_Section.Designation: UB 406 x 140 x 46
+Member.Supported_Section.Material: E 300 (Fe 440)
+Module: Beam-to-Beam End Plate Connection
+Weld.Fab: Shop Weld
+Weld.Material_Grade_OverWrite: '440'
+Weld.Type: Groove Weld

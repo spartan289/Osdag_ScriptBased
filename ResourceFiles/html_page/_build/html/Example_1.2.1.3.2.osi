@@ -1,0 +1,18 @@
+Connector.Flange_Plate.Preferences: Outside
+Connector.Flange_Plate.Thickness_list:
+- '18'
+Connector.Material: E 300 (Fe 440)
+Connector.Web_Plate.Thickness_List:
+- '12'
+Design.Design_Method: Limit State Design
+Detailing.Gap: '8'
+Load.Axial: ''
+Load.Moment: '150'
+Load.Shear: '80'
+Material: E 250 (Fe 410 W)A
+Member.Designation: WB 400
+Member.Material: E 250 (Fe 410 W)A
+Module: Beam-to-Beam Cover Plate Welded Connection
+Weld.Fab: Shop Weld
+Weld.Material_Grade_OverWrite: '450'
+Weld.Type: Fillet Weld

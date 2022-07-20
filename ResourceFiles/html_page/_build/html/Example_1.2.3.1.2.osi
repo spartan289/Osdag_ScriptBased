@@ -1,0 +1,25 @@
+Bolt.Bolt_Hole_Type: Standard
+Bolt.Diameter:
+- '24'
+Bolt.Grade:
+- '8.8'
+Bolt.Slip_Factor: '0.52'
+Bolt.TensionType: Pre-tensioned
+Bolt.Type: Friction Grip Bolt
+Connector.Flange_Plate.Preferences: Outside
+Connector.Flange_Plate.Thickness_list:
+- '20'
+Connector.Material: E 300 (Fe 440)
+Connector.Web_Plate.Thickness_List:
+- '16'
+Design.Design_Method: Limit State Design
+Detailing.Corrosive_Influences: 'Yes'
+Detailing.Edge_type: Rolled, machine-flame cut, sawn and planed
+Detailing.Gap: '0'
+Load.Axial: '520'
+Load.Moment: '60'
+Load.Shear: '40'
+Material: E 300 (Fe 440)
+Member.Designation: PBP 400 X 176.1
+Member.Material: E 300 (Fe 440)
+Module: Column-to-Column Cover Plate Bolted Connection

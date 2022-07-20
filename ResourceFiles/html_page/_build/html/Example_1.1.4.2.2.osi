@@ -1,0 +1,25 @@
+Bolt.Bolt_Hole_Type: Standard
+Bolt.Diameter:
+- '16'
+Bolt.Grade:
+- '8.8'
+Bolt.Slip_Factor: '0.3'
+Bolt.TensionType: Non pre-tensioned
+Bolt.Type: Bearing Bolt
+Connectivity: Column Web-Beam Web
+Connector.Angle_List:
+- 90 x 90 x 10
+Connector.Material: E 250 (Fe 410 W)A
+Connector.Top_Angle:
+- 80 x 80 x 10
+Design.Design_Method: Limit State Design
+Detailing.Corrosive_Influences: 'No'
+Detailing.Edge_type: Rolled, machine-flame cut, sawn and planed
+Detailing.Gap: '10'
+Load.Shear: '90'
+Material: E 250 (Fe 410 W)A
+Member.Supported_Section.Designation: LB 325
+Member.Supported_Section.Material: E 250 (Fe 410 W)A
+Member.Supporting_Section.Designation: UC 203 x 203 x 52
+Member.Supporting_Section.Material: E 250 (Fe 410 W)A
+Module: Seated Angle Connection
